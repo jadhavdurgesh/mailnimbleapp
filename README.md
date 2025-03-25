@@ -1,15 +1,16 @@
 
 # MailNimble - AI-Powered Email Assistant
-(https://github.com/user-attachments/assets/93d10f6c-0754-4d5a-b3ab-c91f55565deb)
 <!-- Replace with your logo URL if you have one -->
+![MailNimble](https://github.com/user-attachments/assets/479188b0-27ab-4ac8-95c4-ca0125e785c4)
 
 **MailNimble** is an intelligent email assistant designed to enhance your Gmail experience. Built with a Flutter frontend, Spring Boot backend, and a Chrome extension, it integrates seamlessly with Gmail via the Chrome API. Powered by the Gemini API, MailNimble lets users compose emails with customizable tones (e.g., formal, casual, persuasive) and provides live UI updates for a smooth, cross-platform workflow. This project showcases full-stack development, OAuth authentication, and AI automation, completed between June 2024 and September 2024.
 
-Watch the demo video: [MailNimble Demo](https://your-video-link-h
+Watch the demo video: [MailNimble Demo]
 
-https://github.com/user-attachments/assets/382d35aa-58d5-44c9-900a-aeba97fcf324
 
-ere.com) <!-- Replace with your actual video link -->
+https://github.com/user-attachments/assets/8a4ee6bc-6c0c-46ef-965e-16727f131be8
+
+
 
 ## Features
 
