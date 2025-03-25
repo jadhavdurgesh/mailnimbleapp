@@ -121,4 +121,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 - **Author**: Durgesh Jadhav
 - **Email**: jadhavdurgesh007@gmail.com
-- **GitHub**: [your-username](https://github.com/jadhavdurgesh)
+- **GitHub**: [jadhavdurgesh](https://github.com/jadhavdurgesh)
